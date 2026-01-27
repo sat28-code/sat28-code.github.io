@@ -34,7 +34,7 @@
    <p>The Dart: A common plane that relies on force of the throw.  - - - - - - - The Lock Bottom: A plane that uses a locked flap to keep its shape and can fly further.</p>
 
    <video width="320" height="240" controls>
-       <source src="Sam Dart.mp4" type="video/mp4">
+       <source src="Sam dart.mp4" type="video/mp4">
        You can't support MP4???
    </video>
 

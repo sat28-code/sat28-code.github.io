@@ -52,9 +52,9 @@
        You can't support MP4???
 </video>
 
-<li>
+<L>
 <img src="SidewaysCans.jpg" width="200" height="240">
-</li>
+</L>
 
 
 

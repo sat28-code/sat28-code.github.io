@@ -16,6 +16,7 @@
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
+<img src="SidewaysCans.jpg" width="200" height="240">
 
 
 <h2>Roles of the Planes</h2>
@@ -52,7 +53,7 @@
 </video>
 
 </p>
-<imgsrc="SidewaysCans.jpg" Alt"Come on" width="200" height="240">
+
 
 
 

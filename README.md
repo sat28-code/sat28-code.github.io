@@ -16,7 +16,7 @@
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
-<img src="SidewaysCans.jpg" width="200" height="240">
+
 
 
 <h2>Roles of the Planes</h2>
@@ -52,7 +52,7 @@
        You can't support MP4???
 </video>
 
-</p>
+hi
 
 
 

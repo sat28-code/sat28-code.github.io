@@ -12,7 +12,7 @@
 <h1>Paper Aeroplane Golf</h1>
 
 <h2>What is it?</h2>
-   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using club, golfballs, and a hole, the players use paper aeroplanes and a ring. The goal of the game is to throw a plane through the ring in the least amount of shots and have fun. It is designed soD that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
+   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using club, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed soD that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
@@ -70,7 +70,7 @@
    
 
 <h2>Setup</h2>
-   <p>Find an area that has obstacles and plenty space and the your hoop from a tree or another object so that you can throw a plane through it. </p>
+   <p>Find an area that has obstacles and plenty space and the your hoop from a tree or another object so that you can throw a plane through it. You can also choose a target to hit with your plane.</p>
 
 <img src="ThrowingAPllane.jpg" alt="Throwing a Plane" height=435px width=288px style="float:right">
 

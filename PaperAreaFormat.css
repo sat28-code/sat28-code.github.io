@@ -1,0 +1,47 @@
+H1 {
+  background-color: #40d0c0;
+  Text-align: center;
+
+}
+
+h2 {
+  background-color: #10a0b0;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-right: 900px;
+  font-family: "Times New Roman", Times, serif;  
+  color: #50e5e5;
+}
+
+body {
+  background-color: #a4ccff;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px
+  
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+  line-height:22px;
+}
+
+li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+
+
+Video {
+  margin-left: 40px;
+  margin-right: 260px;
+  margin-bottom: 10px;
+}
+
+L {
+  margin-left: 98px;
+}
+

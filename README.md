@@ -51,8 +51,9 @@
        You can't support MP4???
 </video>
 
+</p>
+<imgsrc="SidewaysCans.jpg" Alt"Come on" width="200" height="240">
 
-<img src="SidewaysCans.jpg" Alt"Come-on" width="200" height="240">
 
 
 

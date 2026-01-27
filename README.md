@@ -18,9 +18,6 @@
 <img src="A Plane 1.jpg" alt="A plane" height=240px width=360px>
 
 
-
-<!--iframe src="-"  title="A dart" width="580" height="480"-->
-
 <h2>Roles of the Planes</h2>
 <p>The game has 5 planes. The dart, the lock bottom, the canard and two modified versions of the canard. The dart is this games version of a putter, it is using for short but precise throws. The canard is a long distance plan because it is stall resistant. This allows it to glide and not come crashing to the ground easily. The rockbottom is halfway between the dart and canard's distance. You can modify the canards by folding in some one of the small wings allowing the canard to glide sideways to the throw after the original force on it.</p>
 

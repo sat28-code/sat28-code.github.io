@@ -44,7 +44,7 @@
        <source src="Lock Bottom.mp4" type="video/mp4">
        You can't support MP4???
    </video>
- <p>The Canard: A specialised plane that uses two sets of wings to resist stalling and can glide easily. - - - - Turning planes: Canards with one of their small wings folded to create more power on a side to turn it.</p>
+ <p> The Canard: A specialised plane that uses two sets of wings to resist stalling and can glide easily. - - - - Turning planes: Canards with one of their small wings folded to create more power on a side to turn it. </p>
 
 <video width="320" height="240" controls>
        <source src="CanardR.mp4" type="video/mp4">

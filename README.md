@@ -96,8 +96,6 @@
         }
   </script>
 
-<img src="A Plane 1.jpg" alt="A plane" height=240px width=360px>
-
 <h2>Sources</h2>
 <p>Scotland: Golf</p>
 <p>John Collins: The paper aeroplane guy</p>

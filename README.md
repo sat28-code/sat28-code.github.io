@@ -12,7 +12,7 @@
 <h1>Paper Aeroplane Golf</h1>
 
 <h2>What is it?</h2>
-   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using club, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed soD that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
+   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using club, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed so that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
@@ -61,7 +61,7 @@
 
 
 <h2>Adapting your planes</h2>
-<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings and by keeping have the wings in a 120 degree angle to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put weight on the from to prevent it Turing up.
+<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings and by keeping have the wings in a 120 degree angle to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put some weight on the front to prevent it turning up.
 
 <video width="320" height="240" controls>
        <source src="WingAng.mp4" type="video/mp4">
@@ -88,7 +88,7 @@
 <p>Like golf it is scored through par. Par is the amount of throws a hole is expected to take and you score how much you did compared to it. If you used an extra throw, you get 1 point, if you use less, you lose points. The goal is to have the least amount of points. Please play with another person so you can compete and play the same holes. </p>
 
 <h2>Par Calculator</h2>
-    <input type="number" id="num1" placeholder="Hoop Diameter (cm)">
+    <input type="number" id="num1" placeholder="Hoop/Target Diameter (cm)">
     <input type="number" id="num2" placeholder="Course length (m)">
     <input type="number" id="num3" placeholder="Number of obstacles">
     <button onclick="calculatePar()">Calculate</button>

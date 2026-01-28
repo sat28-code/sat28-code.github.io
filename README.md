@@ -61,7 +61,7 @@
 
 
 <h2>Adapting your planes</h2>
-<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings and by keeping have the wings in a 120 degree angle to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put some weight on the front to prevent it turning up.
+<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings and by keeping have the wings in a 120 degree angle to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put some weight on the front to prevent it turning up.                                                . </p>
 
 <video width="320" height="240" controls>
        <source src="WingAng.mp4" type="video/mp4">

@@ -12,7 +12,7 @@
 <h1>Paper Aeroplane Golf</h1>
 
 <h2>What is it?</h2>
-   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using clubs, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed so that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
+   <p>Paper aeroplane golf is an adaptation of the sport golf where instead of using clubs, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed so that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
@@ -88,7 +88,7 @@
 <p>Like golf it is scored through par. Par is the amount of throws a hole is expected to take and you score how much you did compared to it. If you used an extra throw, you get 1 point, if you use less, you lose points. The goal is to have the least amount of points. Please play with another person so you can compete and play the same holes. </p>
 
 <h2>Par Calculator</h2>
-    <input type="number" id="num1" placeholder="Hoop/Target Diameter (cm)">
+    <input type="number" id="num1" placeholder="Target Diameter (cm)">
     <input type="number" id="num2" placeholder="Course length (m)">
     <input type="number" id="num3" placeholder="Number of obstacles">
     <button onclick="calculatePar()">Calculate</button>

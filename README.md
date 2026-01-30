@@ -12,7 +12,7 @@
 <h1>Paper Aeroplane Golf</h1>
 
 <h2>What is it?</h2>
-   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using club, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed so that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
+   <p>Paper aeroplane Golf is an adaptation of the sport golf where instead of using clubs, golfballs, and a hole, the players use paper aeroplanes and a target The goal of the game is to throw a plane through a ring or at a target in the least amount of shots and have fun. It is designed so that all the player needs is internet to access the rules and scrap items so that it is easy for everyone to play</p>
 
 
 <img src="A Dart.jpg" alt="A plane" height=240px width=360px>
@@ -20,7 +20,7 @@
 
 
 <h2>Roles of the Planes</h2>
-<p>The game has 5 planes. The dart, the lock bottom, the canard and two modified versions of the canard. The dart is this games version of a putter, it is using for short but precise throws. The canard is a long distance plan because it is stall resistant. This allows it to glide and not come crashing to the ground easily. The rockbottom is halfway between the dart and canard's distance. You can modify the canards by folding in some one of the small wings allowing the canard to glide sideways to the throw after the original force on it.</p>
+<p>The game has 5 planes. The dart, the lock bottom, the canard and two modified versions of the canard. The dart is this games version of a putter, it is used for short but precise throws. The canard is a long distance plane because it is stall resistant. This allows it to glide and not come crashing to the ground easily. The rockbottom is halfway between the dart and canard's distance. You can modify the canards by folding in one of the small wings allowing the canard to glide sideways to the throw after the original force on it.</p>
 
 
 <h2>Equipment</h2>
@@ -61,7 +61,7 @@
 
 
 <h2>Adapting your planes</h2>
-<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings and by keeping have the wings in a 120 degree angle to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put some weight on the front to prevent it turning up.                                                . </p>
+<p>Planes need final touches before being ready for flight. By turning the back of the wings up, you can create a better shape for wings.  The wings should be in a 120 degree angle on the top to each other helps stabilise flight. If the planes are stalling, use paper clips to reorganise weight. For example, if the plane flies straight up, put some weight on the front to prevent it turning up.                                                . </p>
 
 <video width="320" height="240" controls>
        <source src="WingAng.mp4" type="video/mp4">
